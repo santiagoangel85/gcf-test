@@ -1,2 +1,2 @@
 # gcf-test
-DCF from github
+DCF from github to slack chanel
